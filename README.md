@@ -21,5 +21,5 @@ To make it easy to access all tasks, I have compiled them into a single reposito
 
 ## My Internship at CodeAlpha
 For a detailed overview of my internship experience, please refer to the PDF document:
-- [My Internship at CodeAlpha](https://github.com/Marsellino-Nasry/CodeAlpha-Internship-Tasks/blob/main/My%20Intership%20CodeAlpha%209th%20July%202024.pdf)
+- [My Internship Offer letter at CodeAlpha](https://github.com/dhanaraj1922/CodeAlpha_Internship_Tasks/blob/master/Dhanaraj%20Rajendra%20Patil%20.pdf)
 ----------
