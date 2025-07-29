@@ -1,4 +1,4 @@
-     # CodeAlpha Internship Tasks
+# CodeAlpha Internship Tasks
 
 Welcome to my CodeAlpha internship repository! This repository contains all the tasks I have completed as part of my cybersecurity internship at CodeAlpha. Below are the details and links to each task.
 
